@@ -1,0 +1,3 @@
+[submodule "hw/third_party/kicad-lib"]
+	path = hw/third_party/kicad-lib
+	url = https://github.com/thechosenone98/kicad-lib.git
